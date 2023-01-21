@@ -1,4 +1,5 @@
 # Brain Tumor Detection
+<img src = "https://www.researchgate.net/profile/Attia-Batool/publication/330797710/figure/fig4/AS:721507865079809@1549032288275/T2-weighted-normal-image-of-brain_Q320.jpg">
 ### Project Level: Intermediate-Advanced
 ### Dataset: [Brain Tumor Images](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 ### Main Libraries: Numpy, Padnas, Matplotlib, Keras
