@@ -1,6 +1,5 @@
 # Brain Tumor Detection
-<img src = "https://www.researchgate.net/profile/Mohammed-Kamil-8/publication/277132123/figure/fig1/AS:669508192710676@1536634600813/CT-scan-image-of-brain-tumor.jpg
-">
+<img src = "https://i.postimg.cc/3NS5z6RB/image.png">
 ### Project Level: Intermediate-Advanced
 ### Dataset: [Brain Tumor Images](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 ### Main Libraries: Numpy, Padnas, Matplotlib, Keras
