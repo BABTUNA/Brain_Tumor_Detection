@@ -1,4 +1,4 @@
-# -------------------Brain Tumor Detection-------------------
+# Brain Tumor Detection
 <br>
 ### Project Level: Intermediate-Advanced
 ### Dataset: [Brain Tumor Images](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
